@@ -2,7 +2,8 @@
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
 title = "Revolve | Hugo Blog Template"
-theme = "revolve-hugo"
+theme = "tomasgiden.github.io"
+#theme = "revolve-hugo"
 summaryLength = "10"
 paginate = 8
 disqusShortname = "revolve" #get your shortname form : disqus.com
