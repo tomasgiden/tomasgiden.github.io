@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://tomasgiden.netlify.com"
+baseURL = "https://www.tomasgiden.com"
 languageCode = "en-us"
 title = "Revolve | Hugo Blog Template"
 theme = "revolve-hugo"
