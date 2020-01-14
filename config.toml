@@ -1,118 +1,78 @@
-######################## default configuration ####################
 baseURL = "https://www.tomasgiden.com"
+disqusShortname = "revolve"
 languageCode = "en-us"
-title = "Revolve | Hugo Blog Template"
-theme = "revolve-hugo"
-summaryLength = "10"
 paginate = 8
-disqusShortname = "revolve" #get your shortname form : disqus.com
-
+summaryLength = "10"
+theme = "revolve-hugo"
+title = "Tomas Gidén - Software Crafter"
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 2
 [outputs]
-  home = ["HTML", "AMP", "RSS", "JSON"]
-
-############################# Plugins ##############################
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
-  [[params.plugins.css]]
-  URL = "plugins/slick/slick-theme.css"
-  [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
-  [[params.plugins.css]]
-  URL = "plugins/magnific-popup/magnific-popup.css"
-
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/instafeed/instafeed.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/magnific-popup/magnific-popup.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/fuse.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/mark.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/search.js"
-  [[params.plugins.js]]
-  URL = "plugins/google-map/gmap.js"
-
-  
-############################## navigation ###############################
-[menu]
-    
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 1
-  
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 2
-
-
-#################### default parameters ################################
+home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
-logo = "images/logo.png"
-home = "Home"
-# Meta description
+contactFormAction = "work+blog@tomasgiden.com"
+copyright = "@2020 Tomas Gidén"
 description = "This is meta description"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
-# contact form action url
-contactFormAction = "#" # contactr form works with formspree.io
-# copyright
-copyright = "@2019 [Themefisher](https://themefisher.com) All Rights Reserved"
-
-  # Preloader
-  [params.preloader]
-  enable = true
-  preloader = "" # use .png , .svg or .gif format
-
-  # search
-  [params.search]
-  enable = true
-
-
-########################### author [blog sidebar] ###############
+googleAnalitycsID = "UA-156235311-1"
+home = "Home"
+logo = "images/logo.png"
 [params.author]
-name = "Liam Mason"
-designation = "Travel Blogger"
+bio = "I'm Tomas. I craft systems. "
+designation = "Software Crafter"
 image = "images/author.jpg"
-bio = "I'm Liam, last year I decided to quit my job and travel the world. You can follow my journey on this blog!"
+name = "Tomas Gidén"
 signature = "images/liammason.png"
-
-############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-############################ newsletter #############################
 [params.newsletter]
-title = "Subscribe Newsletter"
 subtitle = "Subscribe my Newsletter for new blog posts , tips and info."
+title = "Subscribe Newsletter"
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick-theme.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/instafeed/instafeed.min.js"
+[[params.plugins.js]]
+URL = "plugins/magnific-popup/magnific-popup.js"
+[[params.plugins.js]]
+URL = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/mark.js"
+[[params.plugins.js]]
+URL = "plugins/search/search.js"
+[[params.plugins.js]]
+URL = "plugins/google-map/gmap.js"
+[params.preloader]
+enable = true
+preloader = ""
+[params.search]
+enable = true
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+title = "twitter"
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
+title = "linkedin"
+[[params.social]]
+icon = "ti-github"
+link = "#"
+title = "github"
