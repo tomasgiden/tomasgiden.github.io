@@ -1,27 +1,23 @@
 ---
-title: "About Me"
-date: 2019-10-29T13:49:23+06:00
-draft: false
+title: About Me
+date: 2019-10-29T07:49:23.000+00:00
+description: this is meta description
+image: images/about.jpg
+smallBlock1Title: Who am I?
+smallBlock1Content: 'I am a systems crafter. I craft systems. '
+smallBlock2Title: My vision
+smallBlock2Content: 'My vision is a world where people and computers work side by
+  side in a both efficient and effective way. '
 
-# meta description
-description: "this is meta description"
-
-# image
-image: "images/about.jpg"
-
-# small text block 1
-smallBlock1Title : "Who is me?"
-smallBlock1Content : "Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat"
-
-
-# small text block 2
-smallBlock2Title : "My vission"
-smallBlock2Content : "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis biben. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit."
 ---
+### About Me
 
+Hi! I'm Tomas. This is my blog.
 
-### I have travel 10+ more countries in this year.
+Here I will blog on topics that interest me professionally. What interests me are systems. Both digital systems composed of software and hardware and analogue systems composed of people. Most interesting are systems composed of both software and people. These are the most complex, but also the most rewarding to work with.
 
-Poor Alice! It was as much as she could do, lying down on one side, to look through into the garden with one eye; but to get through was more hopeless than ever: she sat down and began to cry again.
+My writing will probably revolve heavily around software, agile methods, embedded systems, machine learning, complexity theory, leadership and everything in between.
 
-Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis biben. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis biben. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis biben. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit.
+The reason I blog is as much to clarify my own thinking as it is to share my thoughts with you. 
+
+I hope you find it interesting!
