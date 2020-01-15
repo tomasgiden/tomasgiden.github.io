@@ -16,12 +16,12 @@ weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
-contactFormAction = "work+blog@tomasgiden.com"
+contactFormAction = "https://formspree.io/xpzpraky"
 copyright = "@2020 Tomas Gidén"
 description = "This is meta description"
 googleAnalitycsID = "UA-156235311-1"
 home = "Home"
-logo = "images/logo.png"
+logo = "images/logo-1.png"
 [params.author]
 bio = "I'm Tomas. I craft systems. "
 designation = "Software Crafter"
