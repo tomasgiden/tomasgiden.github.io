@@ -1,13 +1,11 @@
 ---
-title: "Contact Me"
-date: 2019-10-29T13:49:23+06:00
-draft: false
+title: Contact Me
+date: 2019-10-29T07:49:23.000+00:00
+description: this is meta description
+image: images/contact.jpg
 
-# meta description
-description: "this is meta description"
-
-# image
-image: "images/contact.jpg"
 ---
+If there is anything, just give me a shout out down below and I'll get back in touch.
 
-Something splashing about in the pool a little way off, and she swam nearer to make out what it was: at first she thought it must be a walrus or hippopotamus, but then she remembered how small she was now, and she soon made out that it was only a mouse that had slipped in like herself.
+Best regards,  
+Tomas
