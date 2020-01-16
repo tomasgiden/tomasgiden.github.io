@@ -24,7 +24,7 @@ home = "Home"
 logo = "images/logo-1.png"
 [params.author]
 bio = "I'm Tomas. I craft systems. "
-designation = "Software Crafter"
+designation = "Software Craftsman"
 image = "images/author.jpg"
 name = "Tomas Gidén"
 signature = "images/liammason.png"
