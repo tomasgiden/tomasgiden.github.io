@@ -70,7 +70,7 @@ link = "#"
 title = "twitter"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/tomasgiden/"
 title = "linkedin"
 [[params.social]]
 icon = "ti-github"
