@@ -21,7 +21,7 @@ copyright = "@2020 Tomas Gidén"
 description = "This is meta description"
 googleAnalitycsID = "UA-156235311-1"
 home = "Home"
-logo = "images/logo-1.png"
+logo = "images/logo.png"
 [params.author]
 bio = "I'm Tomas. I craft systems. "
 designation = "Software Craftsman"
