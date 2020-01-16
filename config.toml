@@ -4,7 +4,7 @@ languageCode = "en-us"
 paginate = 8
 summaryLength = "10"
 theme = "revolve-hugo"
-title = "Tomas Gidén - Software Crafter"
+title = "Tomas Gidén - Software Craftsman"
 [[menu.main]]
 URL = "about"
 name = "About"
