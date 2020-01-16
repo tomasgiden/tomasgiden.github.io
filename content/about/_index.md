@@ -2,7 +2,7 @@
 title: About Me
 date: 2019-10-29T07:49:23.000+00:00
 description: this is meta description
-image: images/about.jpg
+image: images/Tomas_Giden.png
 smallBlock1Title: Who am I?
 smallBlock1Content: 'I am a systems crafter. I craft systems. '
 smallBlock2Title: My vision
