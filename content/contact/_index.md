@@ -7,7 +7,7 @@ image: images/contact.jpg
 ---
 If there is anything, just give me a shout out down below and I'll get back in touch.
 
-I am a consultant in embedded systems by trade. If you are interested in my services, especially in the Stockholm, Sweden area, just send a message and we'll figure something out together.
+I am a consultant in embedded systems by trade. If you are interested in my services, remote or in the Stockholm area, just send a message and we'll figure something out together.
 
 Best regards,  
 Tomas
