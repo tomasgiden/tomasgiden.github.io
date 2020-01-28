@@ -1,28 +1,20 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: false
-
-# post thumb
-image: "images/news/f2.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: 
-  - "HTML"
+title: How To Use Checklists To Improve Your UX
+date: 2019-10-29T04:07:47.000+00:00
+image: images/news/f2.jpg
+description: this is meta description
+categories:
+- HTML
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+- Photos
+- Game
+- HTML
+- Python
+- New
+type: post
+draft: true
 
-# post type
-type: "post"
 ---
-
 # Heading 1
 ## Heading 2
 ### Heading 3
