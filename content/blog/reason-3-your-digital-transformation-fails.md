@@ -6,7 +6,7 @@ draft = true
 image = "/images/together_aligned_503410462.jpg"
 tags = ["Digital Transformation"]
 title = "Reason #3 your digital transformation fails"
-type = ""
+type = "post"
 
 +++
 In this, the third, part of the series on why a digital transformation fails we are going to talk about **the fallacy of the development factory analogy.**
