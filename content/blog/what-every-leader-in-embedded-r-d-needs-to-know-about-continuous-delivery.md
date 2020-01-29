@@ -8,6 +8,8 @@ title = "What every leader in embedded R&D needs to know about continuous delive
 type = "featured"
 
 +++
+Continuous delivery comes from the world of internet and cloud services but if you think it is going to only stay there, you need to think again. Continuous delivery is changing the embedded systems scene dramatically. Here you can learn how continuous delivery is transforming the embedded systems development.
+
 ## From integration to deployment
 
 Continuous delivery incorporates three different practices. First, we have continuous integration,a development practice that breaks down a feature into its smallest possible parts and integrate those daily with everyone else work.
