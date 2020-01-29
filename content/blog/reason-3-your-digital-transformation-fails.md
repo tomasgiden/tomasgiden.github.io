@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["Transforming Embedded"]
 date = 2020-01-28T23:00:00Z
 description = "In this, the third, part of the series on why a digital transformation fails we are going to talk about the fallacy of the development factory analogy."
 draft = true
-image = ""
-tags = []
+image = "/images/together_aligned_503410462.jpg"
+tags = ["Digital Transformation"]
 title = "Reason #3 your digital transformation fails"
 type = ""
 
@@ -49,3 +49,5 @@ In practice, the actions required may include:
 * Building truly autonomous teams
 
 All of these bullets are subjects large enough to warrant their own articles and we will definitely get back to them later. So, let us just end this article with a question, how long time does it take for a developer in your organization to know if what she built has brought value to the customer?
+
+This article was also published on Transforming Embedded [here](https://transformingembedded.sigmatechnology.se/insight-post/reason-3-your-digital-transformation-fails-the-development-factory/ "Reason #3 your digital transformation fails").
