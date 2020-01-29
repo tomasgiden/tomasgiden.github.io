@@ -2,7 +2,6 @@
 categories = ["Transforming Embedded"]
 date = 2020-01-28T23:00:00Z
 description = "This is the second article on why digital transformations in general, and in organizations developing embedded systems specifically, fails. The first article talked about not wanting to let go of existing processes. This article will talk about a lack of management support."
-draft = true
 image = "/images/early_adopters_501987826.jpg"
 tags = ["Digital Transformation"]
 title = "Reason #2 your digital transformation fails"
