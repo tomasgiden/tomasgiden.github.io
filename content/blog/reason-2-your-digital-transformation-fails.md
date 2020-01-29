@@ -9,11 +9,11 @@ title = "Reason #2 your digital transformation fails"
 type = "post"
 
 +++
-This is the second article on why digital transformations in general, and in organizations developing embedded systems specifically, fails. The first article talked about not wanting to let go of existing processes. This article will talk about a lack of management support.
+This is the second article on why digital transformations in general, and in organizations developing embedded systems specifically, fails. The [first article](https://www.tomasgiden.com/blog/reason-1-your-digital-transformation-fails/ "Reason #1 your digital transformation fails") talked about not wanting to let go of existing processes. This article will talk about **a lack of management support**.
 
 We can look at this issue through the lens of the Adoption Model. The Adoption model explains in general the adoption of something through a population. There are first the innovators that pull ahead and help develop the new innovation. Then comes the early adopters. These are the people that want to jump on new things even though they are not the drivers and developers themselves. After this we have the early majority which are the people who accept change when early adopters present it to them. Then we have the late majority, which do not adopt the change until most other people are already on it. And lastly, we have the laggards which are set in their ways and who only will accept the change when there is no other option.
 
-![](https://transformingembedded.sigmatechnology.se/wp-content/uploads/2018/12/adoption_model.png =1458x734)
+![](/images/adoption_model.png)
 
 \[image of the adoption model: Innovators, Early adopters, Early majority, Late majority, laggards\]
 
@@ -40,3 +40,5 @@ So to conclude,
 4\. Don’t change too much at a time. Let the transformation evolve but always in the direction of the stated goals.
 
 Stay tuned for the third article in the series about the fallacy of the software factory.
+
+This article was also published on Transforming Embedded [here](https://transformingembedded.sigmatechnology.se/insight-post/reason-2-your-digital-transformation-fails-lack-of-leadership-support/ "Reason #2 your digital transformation fails").
