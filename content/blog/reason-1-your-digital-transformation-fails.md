@@ -11,7 +11,7 @@ type = ""
 +++
 There are many organizations developing embedded systems trying to adopt agile practices as part of their digital transformation. Many get limited results for one or another reason. In this article series, we will go through some of the more common reasons for not getting the most out of digital transformation and agile. This first article is about not letting go of existing processes.
 
-Challenge your existing processes
+### Challenge your existing processes
 
 Out of the different agile practices, many companies try to adopt the Scrum process. Scrum as a process is not very prescriptive but there are a few things all Scrum implementations have in common to be able to be called Scrum at all:
 
