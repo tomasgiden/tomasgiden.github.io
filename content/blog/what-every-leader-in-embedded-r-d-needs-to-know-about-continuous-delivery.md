@@ -5,7 +5,7 @@ description = "Continuous delivery comes from the world of internet and cloud se
 image = "/images/robot_delivery_1_3.jpg"
 tags = ["Work processes", "Continuous Delivery", "Continuous Integration"]
 title = "What every leader in embedded R&D needs to know about continuous delivery"
-type = "post"
+type = "featured"
 
 +++
 ## From integration to deployment
