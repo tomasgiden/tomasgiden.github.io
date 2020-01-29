@@ -11,7 +11,7 @@ tags:
 - React
 - Python
 - New
-type: featured
+type: post
 draft: true
 
 ---
