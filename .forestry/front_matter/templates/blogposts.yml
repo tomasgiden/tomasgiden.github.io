@@ -24,4 +24,5 @@ fields:
   name: type
   label: type
 pages:
+- content/blog/reason-1-your-digital-transformation-fails.md
 - content/blog/what-every-leader-in-embedded-r-d-needs-to-know-about-continuous-delivery.md
