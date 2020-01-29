@@ -2,10 +2,9 @@
 categories = ["Transforming Embedded"]
 date = 2020-01-28T23:00:00Z
 description = "There are many organizations developing embedded systems trying to adopt agile practices as part of their digital transformation. Many get limited results for one or another reason. In this article series, we will go through some of the more common reasons for not getting the most out of digital transformation and agile. This first article is about not letting go of existing processes."
-draft = true
 image = "/images/leading_with_vision_462112603.jpg"
 tags = ["Digital transformation"]
-title = "REASON #1 YOUR DIGITAL TRANSFORMATION FAILS"
+title = "Reason #1 your digital transformation fails"
 type = "post"
 
 +++
@@ -47,3 +46,5 @@ Then we use this creative mode to build a broad consensus on wanted goals. It co
 When we have figured this out, then we need to start working with continuous improvements to reach those stated goals. Practices and ideas of agile processes such as Scrum and Kanban should of course be considered as potential solutions, but it is important not to see them as goals themselves. And it is important to not jump directly to these new processes for the whole company at once but to let them grow out of continuous improvements of the current processes organically. And for that to happen you, you must let the old processes change.
 
 It is not easy, as a leader, when you think you have the solution to step back but remember, leading by pointing with your whole hand is not agile, leading by showing vision and direction is.
+
+This article was also published on Transforming Embedded [here](https://transformingembedded.sigmatechnology.se/insight-post/reason-1-your-digital-transformation-fails-not-letting-go/ "Reason #1 your digital transformation fails").
