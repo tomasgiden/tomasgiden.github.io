@@ -25,6 +25,8 @@ What would happen if we forced the people working on Request A to collaborate ex
 
 On the other hand, what would happen if the development of Request B would work like individuals without any ongoing coordination? The result would most likely be delays because of extensive handovers, misunderstandings and unexpected results that is not effective in reaching the goal.
 
+![](static/images/grid.png)
+
 The conclusion here is that you must identify the complexity of a work task to be able to work in the most efficient way and to produce the wanted outcome. There are of course many other factors that affect if you should work collaboratively or not such as the time available, the cost of failure, the feedback cycle length, the need for knowledge sharing and the size of the development organization, but those are all factors we leave for another article.
 
 But the basic premise sounds easy enough! Right?
