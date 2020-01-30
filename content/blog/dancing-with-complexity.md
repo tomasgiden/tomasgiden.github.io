@@ -9,7 +9,7 @@ title = "Dancing with complexity"
 type = ""
 
 +++
-This article is a continuation on the article on **Working with complexity**. In that article we talked about that you need to work in the right mode based on the complexity of your work. The basic conclusions are summarized in the table below.
+This article is a continuation on the article on [Working with complexity](../working-with-complexity/ "Working with complexity"). In that article we talked about that you need to work in the right mode based on the complexity of your work. The basic conclusions are summarized in the table below.
 
 ![](static/images/grid.png)
 
