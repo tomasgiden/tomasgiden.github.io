@@ -35,7 +35,7 @@ It is really not.
 
 ## Setting your organization up for success
 
-First of all, you need to ask yourself if the groups in your organization has the capacity to do teamwork at all. In our work as consultants, too many times we see groups of people just doing individual work even in the face of complex problems. And when they do try collaborative work, they don’t have the capacity to reap the benefits if doing it. If you want to learn more about building that capacity, you need to read our guide on [**how to create awesome teams**](https://pages.transformingembedded.com/guide-2-how-to-build-awesome-teams).
+First of all, you need to ask yourself if the groups in your organization has the capacity to do teamwork at all. In our work as consultants, too many times we see groups of people just doing individual work even in the face of complex problems. And when they do try collaborative work, they don’t have the capacity to reap the benefits if doing it. If you want to learn more about building that capacity, you need to read a colleague's, Daniel Thysell's, guide on [**how to create awesome teams**](https://pages.transformingembedded.com/guide-2-how-to-build-awesome-teams).
 
 Secondly, no work unit is 100% unambiguous or 100% complex. Thus, you cannot organize any one task as only individual work or collaboration. You need to be able to dance back and forth between the two different modes of operation with short notice.
 
