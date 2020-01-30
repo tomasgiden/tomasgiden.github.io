@@ -6,10 +6,14 @@
           <div class="form-group mb-0">
             <h2 class="mb-3">{{ .Site.Params.newsletter.title | markdownify }}</h2>
             <p class="mb-4">{{ .Site.Params.newsletter.subtitle | markdownify }}<p>
-            <form action="#">
+            <form action="https://tomasgiden.us4.list-manage.com/subscribe/post?u=f2c1656b85971ebb87e9ab8cd&amp;id=1ec07f8c90" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
               <div class="form-group form-row align-items-center mb-0">
                 <div class="col-sm-9">
-                  <input type="email" class="form-control" placeholder="Email Address">
+                  <input type="email" class="form-control" name="EMAIL" placeholder="Email Address" required>
+                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                    <input type="text" name="b_f2c1656b85971ebb87e9ab8cd_1ec07f8c90" tabindex="-1" value="">
+                  </div>
                 </div>
                 <div class="col-sm-3">
                   <button type="submit" class="btn btn-dark">Subscribe</button>
