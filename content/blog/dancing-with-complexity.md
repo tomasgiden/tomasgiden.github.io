@@ -19,6 +19,8 @@ The challenge we are going to talk about in this article is how to dance between
 
 The first way is to do it by a . A schedule is when you decide to do collaborative work at certain times.
 
+![](static/images/schedules_1.png)
+
 One example is in the agile practice of Scrum where you have a session called Backlog grooming each sprint where you collaborate on stories and break them down into unambiguous pieces which individuals can work on. If you succeed, you can efficiently work individually until the schedule calls you back for the next collaborative session.
 
 The schedule does not have to be on the scale of weeks, it can also be on the scale of a day. For example, you can decide that you are working together in the morning and then splitting up to work individually in the afternoons.
@@ -29,7 +31,7 @@ Or, if you are an individual who is swamped by people coming over with questions
 
 However, all tasks are not as unambiguous as expected and we need to be able to deal with the unexpected too. The second way is a **check**and is related to a schedule. A check is something you do while being in a meeting to check if you need to start, or continue, collaborate on a task.
 
-![](https://transformingembedded.sigmatechnology.se/wp-content/uploads/2019/04/schedules_2.png =604x92)  
+![](static/images/schedules_2.png)  
 In Scrum you have several checks such as daily standups and demos. In a standup for example, which is not collaborative in its basic setup, you can have a check which could trigger collaboration after the standup. For example, one could be that there has been no progress around a task. Or in a demo, if you and the customer are misaligned, you need to start a round of collaboration to decide the next step.
 
 The frequency of checks is very dependent on the complexity of the work. If your work is very unambiguous, you might be fine with a waterfall process with a phase gate as a check once you think you are done. If it is not, which it seldom is in software, you might need even daily meetings.
@@ -40,7 +42,7 @@ The third and final way is a **trigger**. A trigger is a previously decided cond
 
 The classic example comes from Lean and is the Andon Cord in Toyota. It is the cord a worker on the assembly line can pull at any time when she discovers a problem. Pulling the cord stops the line and help arrives rapidly to sort out the problem together with the worker.
 
-![](https://transformingembedded.sigmatechnology.se/wp-content/uploads/2019/04/schedules_3.png =601x107)
+![](static/images/schedules_3.png)
 
 For knowledge work and engineering, one example of a trigger can be that there have been more than two misunderstandings in an email chain which is acted on by having a face-to-face meeting instead. Another can be that a continuous delivery pipeline has been red more than an hour. Or that a nonstandard customer request is received. Or that a critical bug is found at a customer site. Or that you lie awake during night thinking about a problem two nights in a row. And so on.
 
