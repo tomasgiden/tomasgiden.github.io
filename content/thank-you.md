@@ -3,10 +3,9 @@ categories = []
 date = ""
 description = ""
 draft = true
-image = ""
+image = "/images/pete-pedroza-VyC0YSFRDTU-unsplash.jpg"
 tags = []
-title = "Thank you"
+title = "Thank you for subscribing"
 type = ""
 
 +++
-Thank you for subscribing to my newsletter. 
