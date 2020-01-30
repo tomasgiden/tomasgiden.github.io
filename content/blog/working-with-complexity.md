@@ -2,7 +2,6 @@
 categories = []
 date = 2020-01-29T23:00:00Z
 description = "One tenant of digitalization is that complexity is rising. However, that does not mean that all work units are complex or that every part of work unit is complex. For you as a leader it is paramount that you understand the nature of your work units to decide how to organize work."
-draft = true
 image = "/images/working_complexity.jpg"
 tags = []
 title = "Working with complexity"
