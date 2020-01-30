@@ -5,7 +5,7 @@ description = "Continuous delivery comes from the world of internet and cloud se
 image = "/images/robot_delivery_1_3.jpg"
 tags = ["Work processes", "Continuous Delivery", "Continuous Integration"]
 title = "What every leader in embedded R&D needs to know about continuous delivery"
-type = "featured"
+type = "post"
 
 +++
 Continuous delivery comes from the world of internet and cloud services but if you think it is going to only stay there, you need to think again. Continuous delivery is changing the embedded systems scene dramatically. Here you can learn how continuous delivery is transforming the embedded systems development.
