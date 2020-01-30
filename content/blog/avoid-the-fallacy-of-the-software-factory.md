@@ -2,7 +2,6 @@
 categories = ["Transforming Embedded"]
 date = 2020-01-29T23:00:00Z
 description = ""
-draft = true
 image = "/images/factory_fallacy.jpg"
 tags = ["software factory"]
 title = "Avoid the fallacy of the software factory"
