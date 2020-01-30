@@ -44,3 +44,5 @@ There are three different ways to do this called schedules, checks and triggers 
 **If you learn this, and do this right, you set your organization up for both efficiency and effectiveness.**
 
 _Above article is partially based on theories on Dynamic Work Design by_ [_Nelson Repenning_](https://mitsloan.mit.edu/faculty/directory/nelson-p-repenning)_, MIT._
+
+This article was also published on Transforming Embedded [here](https://transformingembedded.sigmatechnology.se/insight-post/working-with-complexity/ "Working with complexity").
