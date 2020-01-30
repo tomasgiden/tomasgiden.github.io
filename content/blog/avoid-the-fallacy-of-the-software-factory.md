@@ -1,7 +1,7 @@
 +++
 categories = ["Transforming Embedded"]
 date = 2020-01-29T23:00:00Z
-description = ""
+description = "Avoid the fallacy of the software factory"
 image = "/images/factory_fallacy.jpg"
 tags = ["software factory"]
 title = "Avoid the fallacy of the software factory"
@@ -31,7 +31,7 @@ The more autonomous your team can be, the less you will have to manage it.
 
 ## Define value and create feedback loops
 
-A prerequisite to succeed in building autonomous teams is to define how your team deliver value. In this [article](https://transformingembedded.sigmatechnology.se/insight-post/how-to-make-your-software-teams-create-more-business-value/), we describe a good starting point.
+A prerequisite to succeed in building autonomous teams is to define how your team deliver value. In this [article](https://transformingembedded.sigmatechnology.se/insight-post/how-to-make-your-software-teams-create-more-business-value/), a colleague of mine, Daniel, describes a good starting point.
 
 Another way to allow the team to be more autonomous is to let it create its own feedback system.
 
@@ -53,3 +53,5 @@ Do you know what your feedback loops look like?
 ## Wrapping up
 
 In order to deliver value, you must first define what value you try to create. Then you can install a set of feedback loops in order to check that what you do is actually creating value.
+
+This article was also published on Transforming Embedded [here](https://transformingembedded.sigmatechnology.se/insight-post/avoid-the-fallacy-of-the-software-factory/ "Avoid the fallacy of the software factory"). 
