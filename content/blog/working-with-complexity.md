@@ -39,7 +39,7 @@ First of all, you need to ask yourself if the groups in your organization has th
 
 Secondly, no work unit is 100% unambiguous or 100% complex. Thus, you cannot organize any one task as only individual work or collaboration. You need to be able to dance back and forth between the two different modes of operation with short notice.
 
-There are three different ways to do this called schedules, checks and triggers and you need to set these up to match your organization and the work you do. To learn more about these tools, continue reading the second part of this article, called [**Dancing with complexity**](dancing-with-complexity/)**.**
+There are three different ways to do this called schedules, checks and triggers and you need to set these up to match your organization and the work you do. To learn more about these tools, continue reading the second part of this article, called [**Dancing with complexity**](../dancing-with-complexity/)**.**
 
 **If you learn this, and do this right, you set your organization up for both efficiency and effectiveness.**
 
