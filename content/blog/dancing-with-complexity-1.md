@@ -2,7 +2,6 @@
 categories = ["Transforming Embedded"]
 date = 2020-06-05T22:00:00Z
 description = "This article is a continuation on the article on Working with complexity. In that article we talked about that you need to work in the right mode based on the complexity of your work."
-draft = true
 image = ""
 tags = []
 title = "Dancing with complexity"
