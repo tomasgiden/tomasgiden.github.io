@@ -76,4 +76,4 @@ The second one is letting your development department off the hook for minor ada
 
 Good luck building a product your users will love to make theirs! And good luck finding your pots of gold.
 
-This article was also published on Transforming Embedded [here](https://transformingembedded.sigmatechnology.se/insight-post/adaptability-is-eating-agiles-lunch/ "Adaptability is eating Agile's lunch").
+_This article was also published on Transforming Embedded_ [_here_](https://transformingembedded.sigmatechnology.se/insight-post/adaptability-is-eating-agiles-lunch/ "Adaptability is eating Agile's lunch")_._
