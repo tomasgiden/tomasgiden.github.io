@@ -5,7 +5,7 @@ description = "One tenant of digitalization is that complexity is rising. Howeve
 image = "/images/working_complexity.jpg"
 tags = []
 title = "Working with complexity"
-type = "post"
+type = "featured"
 
 +++
 One tenant of digitalization is that complexity is rising. However, that does not mean that all work units are complex or that every part of work unit is complex. For you as a leader it is paramount that you understand the nature of your work units to decide how to organize work.
