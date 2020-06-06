@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Transforming Embedded"]
 date = 2020-06-05T22:00:00Z
 description = "Have your development department been bogged down in making features and adaptions for single customers? Have you then adopted agile to become faster at reacting to customer’s changing needs? Great! Or is it? Maybe there is another way?"
 draft = true
