@@ -3,7 +3,7 @@ categories = ["Transforming Embedded"]
 date = 2020-01-28T23:00:00Z
 description = "There are many organizations developing embedded systems trying to adopt agile practices as part of their digital transformation. Many get limited results for one or another reason. In this article series, we will go through some of the more common reasons for not getting the most out of digital transformation and agile. This first article is about not letting go of existing processes."
 image = "/images/leading_with_vision_462112603.jpg"
-tags = ["Digital transformation"]
+tags = []
 title = "Reason #1 your digital transformation fails"
 type = "featured"
 
