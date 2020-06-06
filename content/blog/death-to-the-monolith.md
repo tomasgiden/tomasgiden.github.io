@@ -62,7 +62,7 @@ I hope I have inspired you to descale your system and create true agile delivery
 
 Now it is your turn. What business value could you realize if you had the ability to deliver different value streams just in time? And what would be the first step for you to get started?
 
-If you want to learn more about the nitty gritty technical details on building these components, continue reading about it in [Death to the Monolith part 2: Long live the component!](https://transformingembedded.sigmatechnology.se/insight-post/death-to-the-mon%E2%80%A6ve-the-component/). In it, I will go into how you should think when slicing the components, how to limit the dependencies between the components and how to build the interfaces between them.
+If you want to learn more about the nitty gritty technical details on building these components, continue reading about it in [Death to the Monolith part 2: Long live the component!](https://transformingembedded.sigmatechnology.se/insight-post/death-to-the-mon%E2%80%A6ve-the-component/ "Death to the Monolith part 2: Long live the component!"). In it, I will go into how you should think when slicing the components, how to limit the dependencies between the components and how to build the interfaces between them.
 
 If you have questions or feedback, just send me a message.
 
