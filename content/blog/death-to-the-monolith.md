@@ -1,6 +1,6 @@
 +++
 categories = ["Transforming Embedded"]
-date = 2019-06-04T22:00:00Z
+date = 2020-06-05T22:00:00Z
 description = "A monolithic is a complex system which is hard to release. But complex system need frequent feedback to create customer value. Thus, the monolith must die."
 image = "/images/pineapple_knife.jpg"
 tags = []
