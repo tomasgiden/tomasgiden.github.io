@@ -33,3 +33,5 @@ But there are many more facets to product agility. I have created a workshop for
 Your architects need to set up and enforce best practices for developing new features in your code base which preserves agility. And all developers also need to be taught to value product agility. Otherwise, your code base will degenerate over time. Here, of course, early design reviews and early [code reviews](https://transformingembedded.sigmatechnology.se/insight-post/how-to-implement-code-reviews-in-your-team/ "How to implement code reviews in your team") are a great help to make sure the realized architecture stays true to its intent.
 
 Get the agility in the product right, together with an agile process and the right culture, and you will have the agility needed to bring true value to your customers as fast as possible.
+
+_This article was also published on Transforming Embedded_ [_here_](https://transformingembedded.sigmatechnology.se/insight-post/how-agile-is-your-product/ "How agile is your product?")_._
