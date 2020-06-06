@@ -26,6 +26,7 @@ fields:
 pages:
 - content/blog/adaptability-is-eating-agile-s-lunch.md
 - content/blog/avoid-the-fallacy-of-the-software-factory.md
+- content/blog/dancing-with-complexity-1.md
 - content/blog/dancing-with-complexity.md
 - content/blog/death-to-the-monolith-part-2-long-live-the-component.md
 - content/blog/death-to-the-monolith.md
