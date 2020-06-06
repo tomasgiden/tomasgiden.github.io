@@ -5,7 +5,7 @@ description = "Avoid the fallacy of the software factory"
 image = "/images/factory_fallacy.jpg"
 tags = ["software factory"]
 title = "Avoid the fallacy of the software factory"
-type = "post"
+type = "featured"
 
 +++
 We handle more than 15 issues every sprint! A scrum master was bragging to a colleague by the coffee machine the other day.
