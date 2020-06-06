@@ -24,6 +24,7 @@ fields:
   name: type
   label: type
 pages:
+- content/blog/adaptability-is-eating-agile-s-lunch.md
 - content/blog/avoid-the-fallacy-of-the-software-factory.md
 - content/blog/dancing-with-complexity.md
 - content/blog/reason-1-your-digital-transformation-fails.md
