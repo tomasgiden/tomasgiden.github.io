@@ -2,7 +2,6 @@
 categories = ["Transforming Embedded"]
 date = 2020-06-05T22:00:00Z
 description = "Do you want to make releases more often? Do you want to be able to bring value to your clients more often? Do you often have to iterate multiple times before your customers gets great value out of your product? If the answers to any of these questions are YES than read on. "
-draft = true
 image = "/images/how_agile_is_your_product2.jpg"
 tags = []
 title = "How agile is your product?"
@@ -13,9 +12,9 @@ Do you want to make releases more often? Do you want to be able to bring value t
 
 Our basic premise on why we believe embedded needs to be transformed is that we are entering an age of higher complexity and an increased rate of change. Not only that, the higher complexity makes it less certain that what you bring to market brings value to the market. Therefore, we believe you need to iterate over and over again to learn what brings value. This in itself increases the rate of releases you need to be able to make even further. If you can’t handle this increased rate of change, your competitors will outlearn you.
 
-So, how do you do it? Often, we, and others, talk about Agile – as in [agile teams](https://transformingembedded.sigmatechnology.se/insight-post/how-you-build-awesome-teams/) and [agile processes](https://transformingembedded.sigmatechnology.se/continuous-delivery-guide/) – as the solution. These are necessary indeed, but they are not sufficient. Your product needs to support agility too!
+So, how do you do it? Often, we, and others, talk about Agile – as in [agile teams](https://transformingembedded.sigmatechnology.se/insight-post/how-you-build-awesome-teams/ "How to build awesome teams") and [agile processes](https://transformingembedded.sigmatechnology.se/continuous-delivery-guide/ "Continuous Delivery Guide") – as the solution. These are necessary indeed, but they are not sufficient. Your product needs to support agility too!
 
-![](/images/agile_triangle_2.png)
+![Triangle with Agile in the middle and Team, Process and Product on each corner.](/images/agile_triangle_2.png "Agile Triangle")
 
 To do that your product must both be easy to change and easy to release. I call this non-functional requirement product agility. If your product has high agility, then it is easy and fast for your developers to quickly make the changes needed to bring new value to your customers.
 
