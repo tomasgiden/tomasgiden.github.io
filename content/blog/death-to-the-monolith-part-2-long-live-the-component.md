@@ -1,6 +1,6 @@
 +++
 categories = ["Transforming Embedded"]
-date = 2019-06-04T22:00:00Z
+date = 2020-06-05T22:00:00Z
 description = "Learn how to go from a monolith to a component based architecture."
 image = "/images/slicing_and_dicing.jpg"
 tags = []
@@ -8,7 +8,7 @@ title = "Death to the monolith part 2: Long live the component"
 type = "post"
 
 +++
-In [part 1](https://transformingembedded.sigmatechnology.se/insight-post/death-to-the-monolith/) of this article I talked about the value you get if break up a monolith into individually deliverable components which makes up one value stream individually. In summary, firstly, by delivering the components independently, you will be able to be that much more responsive towards your customers. Secondly, by organizing teams by components, you will get a high amount of accountability in terms of the code base. And thirdly, by having each team being responsible for one value stream, your developers can rise up and take accountability for their own goals.
+In [part 1](https://www.tomasgiden.com/blog/death-to-the-monolith/ "Death to the Monolith") of this article I talked about the value you get if break up a monolith into individually deliverable components which makes up one value stream individually. In summary, firstly, by delivering the components independently, you will be able to be that much more responsive towards your customers. Secondly, by organizing teams by components, you will get a high amount of accountability in terms of the code base. And thirdly, by having each team being responsible for one value stream, your developers can rise up and take accountability for their own goals.
 
 In this part 2 I am going to talk more about the technical details about these components. First I will cover how to slice the components. Then I will go into how to reduce shared dependencies. And finally I will talk some on how to design the interfaces between the components.
 
