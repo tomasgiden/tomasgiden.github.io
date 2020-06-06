@@ -5,7 +5,7 @@ description = "Have your development department been bogged down in making featu
 image = "/images/elasticity.jpg"
 tags = []
 title = "Adaptability is eating Agile's lunch"
-type = "post"
+type = "featured"
 
 +++
 Have your development department been bogged down in making features and adaptions for single customers? Have you then adopted agile to become faster at reacting to customer’s changing needs? Great! Or is it? Maybe there is another way?
