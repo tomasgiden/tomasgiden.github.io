@@ -76,3 +76,5 @@ If you do all this, there are two pots of gold waiting for you. The first one is
 The second one is letting your development department off the hook for minor adaptions needed for single customers. All adaptions for every single customer can really grind the business and product development to a halt without you even realising it. You are releasing code every day but the value for all but that single customer needing that unique adaptation is very low. With that effort outsourced, you can start focusing at the big picture, your vision and how you can bring value to all your customers.
 
 Good luck building a product your users will love to make theirs! And good luck finding your pots of gold.
+
+This article was also published on Transforming Embedded [here](https://transformingembedded.sigmatechnology.se/insight-post/adaptability-is-eating-agiles-lunch/ "Adaptability is eating Agile's lunch").
