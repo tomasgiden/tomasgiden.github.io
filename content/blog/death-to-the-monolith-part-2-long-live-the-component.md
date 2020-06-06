@@ -2,7 +2,6 @@
 categories = ["Transforming Embedded"]
 date = 2019-06-04T22:00:00Z
 description = "Learn how to go from a monolith to a component based architecture."
-draft = true
 image = "/images/slicing_and_dicing.jpg"
 tags = []
 title = "Death to the monolith part 2: Long live the component"
